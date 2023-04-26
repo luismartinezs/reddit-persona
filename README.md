@@ -1,0 +1,1 @@
+This script scrapes all the recent comments from a user's reddit account
